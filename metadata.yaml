@@ -1,4 +1,8 @@
 _repo: L-eclaireur_47903
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47903-h/images/cover.jpg
 creator:
   author:
     agent_name: Aimard, Gustave
@@ -11,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Gustave_Aimard
     - http://fr.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47903#L-eclaireur
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2015-01-07'
 gutenberg_type: Text
